@@ -1,0 +1,13 @@
+*.iml
+.idea
+target
+.classpath
+.project
+bin
+.settings
+Servers
+.recommenders
+.metadata
+*.png
+*.ucls
+
